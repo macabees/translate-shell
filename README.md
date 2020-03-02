@@ -16,8 +16,8 @@ Command-line translator using Google Translate, Bing Translator, Yandex.Translat
 Note: requires `docker login`
 
 ## Run image
-`$ docker run -it --rm macabees/translate-shell`
+`$ docker run -it --rm macabees/translate-shell :ta thanks`
 
 ## Run image
-`$ docker run -it --rm macabees/translate-shell help`
+`$ docker run -it --rm macabees/translate-shell --help`
 
